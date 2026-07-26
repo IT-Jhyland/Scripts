@@ -1,0 +1,1 @@
+These are scripts for Windows and Linux that I designed for IT0100 at Sierra College. I'm currently persuing my A+ as well as several other certifications. I plan to continue my education towards networking and cybersecurity. 
